@@ -1,17 +1,18 @@
 # Telecom Data Analysis
 
+# Telecom Data Analysis
+
 ## Project Description
-This project analyzes CPEs (Customers Data, identifies missing coordinates, and prepares the dataset for GIS integration)
+Analyze CPE Customer Data, detect missing coordinates, and prepare dataset for GIS integration.
 
 ## Tools Used
-- Python
-- Pandas
+- Python (Pandas, Folium)
 - Excel
 
 ## Features
 - Detects missing data
 - Cleans dataset
-- Ready for GIS mapping
+- Generates interactive map
 
 ## Author
-Wajahat Hussain Telecom-Data-Analysis
+Wajahat Hussain

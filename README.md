@@ -1,7 +1,5 @@
 # Telecom Data Analysis
 
-# Telecom Data Analysis
-
 ## Project Description
 Analyze CPE Customer Data, detect missing coordinates, and prepare dataset for GIS integration.
 
